@@ -1,0 +1,1 @@
+This is my first ever attempt at front end, well, anything. I used HTML and SCSS to create a website for a travel organization that plans your vacations for you. The menu navigation button is click responsive (I used basic javascript), with full navbar display showing on desktop screen (I used mobile first CSS)
